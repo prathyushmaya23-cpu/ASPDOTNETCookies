@@ -32,6 +32,9 @@
                         <asp:Button ID="btnSubmit" runat="server" Text="Submit" OnClick="btnSubmit_Click" />
                     </td>
                 </tr>
+                <tr>
+                    <td><asp:Label ID="lblggname" runat="server"></asp:Label> </td>
+                </tr>
             </table>
         </div>
     </form>
